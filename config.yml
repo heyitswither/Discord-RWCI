@@ -1,0 +1,8 @@
+rwci:
+        gateway: ws://a-sketchy.site:5000
+        channel:
+        username: discord-link
+        password: thebestpassword
+discord:
+        channel_id: 368829319893483531
+        token: not-a-real-token
